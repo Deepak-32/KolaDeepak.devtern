@@ -1,5 +1,4 @@
 TO-DO List CLI Application Documentation
-Overview
 This Python CLI application provides basic functionalities for managing a TO-DO list. It allows users to add, update, mark tasks as complete, remove tasks, and display tasks with optional sorting by priority. The application utilizes SQLite as the database for storing tasks.
 
 Components
